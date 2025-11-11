@@ -1,5 +1,4 @@
-numpy as np
-matplotlib==3.10.1
+streamlit
+numpy
 
-streamlit==1.45.0
 
